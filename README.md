@@ -2,7 +2,6 @@ Watch this space.
 
 Current projects:
 
-- Forward Thinking Science
 - Runge-Kutta
 
 <!---
