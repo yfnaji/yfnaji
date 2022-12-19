@@ -1,8 +1,10 @@
-Watch this space.
+Hello and welcome to my Github!
 
-Current projects:
+Released Projects:
+- xLog: A Python package to make coloring and styling prompts a lot easier!
 
-- Runge-Kutta
+Pending Projects:
+- GERK (General Explicit Runge-Kutta): I am currently working on an app where a user can create their own Runge-Kutta method by allowing them to specify their own butcher tableau and other coefficients
 
 <!---
 yfnaji/yfnaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
