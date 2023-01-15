@@ -3,10 +3,12 @@
 Hello and welcome to my Github!
 
 ## Released Projects:
-- xLog: A Python package to make coloring and styling prompts a lot easier!
+* xLog: A Python package to simplify coloring and styling prompts
+* Gerk: A Python interface for a highly customizable the Runge-Kutta method
 
 ## Pending Projects:
-- GERK (General Explicit Runge-Kutta): I am currently working on an app where a user can create their own Runge-Kutta method by allowing them to specify their own butcher tableau and other coefficients
+* cGerk: Similar to the Gerk project above however with the implementation of C++ for the computationally expensive components
+* Blash: A dashboard to be populated with financial information derived from data streamed from the Interactive Brokers API + the utilization of the Black-Scholes formula to calculate the price of call/put options
 
 <!---
 yfnaji/yfnaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
