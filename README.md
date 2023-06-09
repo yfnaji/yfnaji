@@ -3,7 +3,7 @@
 Hello and welcome to my Github!
 
 ## Released Projects:
-* blackdash: Interactive web app for calculating option prices currently hosted on the Google Cloud Platform (blackdash.io)
+* blackdash: Interactive web app for calculating option prices currently hosted on the Google Cloud Platform [blackdash.io](blackdash.io)
 * gerk: A Python interface for a highly customizable the Runge-Kutta method
   - To-do: Allow Numpy arrays as inputs
 * xLog: A Python package to simplify coloring and styling prompts
