@@ -3,14 +3,11 @@
 Hello and welcome to my Github!
 
 ## Released Projects:
+* blackdash: Interactive web app for calculating option prices currently hosted on the Google Cloud Platform (blackdash.io)
+* gerk: A Python interface for a highly customizable the Runge-Kutta method
+  - To-do: Allow Numpy arrays as inputs
 * xLog: A Python package to simplify coloring and styling prompts
   - To-do: Introduce command line tools + modularize help function
-* Gerk: A Python interface for a highly customizable the Runge-Kutta method
-  - To-do: Allow Numpy arrays as inputs
-
-## Pending Projects:
-* cGerk: Similar to the Gerk project above however with the implementation of C++ for the computationally expensive components
-* Blash: A dashboard to be populated with financial information derived from data streamed from the Interactive Brokers API + the utilization of the Black-Scholes formula to calculate the price of call/put options
 
 <!---
 yfnaji/yfnaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
