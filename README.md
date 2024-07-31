@@ -2,7 +2,7 @@
 
 Hello and welcome to my Github!
 
-My LinkedIn: https://www.linkedin.com/in/yfnaji/
+[My LinkedIn](https://www.linkedin.com/in/yfnaji/)
 
 ## Contributions:
 * Implementation of the finite difference method for the Black-Scholes equation: https://github.com/avhz/RustQuant/pull/211
@@ -10,7 +10,7 @@ My LinkedIn: https://www.linkedin.com/in/yfnaji/
 
 ## Projects:
 * blackdash: Interactive web app for evaluating and analysing Options. Currently hosted at [blackdash.io](https://blackdash.io)
-* gerk: A Python package to customize the Runge-Kutta method
+* gerk: A [Python package on PyPI](https://pypi.org/project/gerk/) to customize the Runge-Kutta method
 * xLog: A simpler way coloring and styling prompts using Python
 
 <!---
