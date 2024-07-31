@@ -1,13 +1,16 @@
 # Yasser Naji's Github
 
 Hello and welcome to my Github!
+My LinkedIn: https://www.linkedin.com/in/yfnaji/
 
-## Released Projects:
-* blackdash: Interactive web app for calculating option prices currently hosted on the Google Cloud Platform: [blackdash.io](https://blackdash.io)
-* gerk: A Python interface for a highly customizable the Runge-Kutta method
-  - To-do: Allow Numpy arrays as inputs
-* xLog: A Python package to simplify coloring and styling prompts
-  - To-do: Introduce command line tools + modularize help function
+## Contributions:
+* Implementation of the finite difference method for the Black-Scholes equation: https://github.com/avhz/RustQuant/pull/211
+* Improvement of the finite difference method using variable transformations: https://github.com/avhz/RustQuant/pull/221
+
+## Projects:
+* blackdash: Interactive web app for evaluating and analysing Options. Currently hosted at [blackdash.io](https://blackdash.io)
+* gerk: A Python package to customize the Runge-Kutta method
+* xLog: A simpler way coloring and styling prompts using Python
 
 <!---
 yfnaji/yfnaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
