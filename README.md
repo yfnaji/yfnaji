@@ -11,7 +11,7 @@ Hello and welcome to my Github!
 ## Projects:
 * blackdash: Interactive web app for evaluating and analysing Options. Currently hosted at [blackdash.io](https://blackdash.io)
 * gerk: A [Python package on PyPI](https://pypi.org/project/gerk/) to customize the Runge-Kutta method
-* xLog: A simpler way coloring and styling prompts using Python
+* xLog: A simpler way to color and style prompts in Python
 
 <!---
 yfnaji/yfnaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
