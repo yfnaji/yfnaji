@@ -1,6 +1,7 @@
 # Yasser Naji's Github
 
 Hello and welcome to my Github!
+
 My LinkedIn: https://www.linkedin.com/in/yfnaji/
 
 ## Contributions:
