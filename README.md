@@ -5,10 +5,10 @@ Hello and welcome to my Github!
 [My LinkedIn](https://www.linkedin.com/in/yfnaji/)
 
 ## Contributions:
-* Longstaff-Schwartz method for pricing American options: https://github.com/avhz/RustQuant/pull/295
-* Centralisation of the Monte-Carlo engine + add additional stochastic numerical schemes: https://github.com/avhz/RustQuant/pull/270 
-* Finite difference method for the Black-Scholes equation: https://github.com/avhz/RustQuant/pull/211
-* Improvement of the finite difference method using variable transformations: https://github.com/avhz/RustQuant/pull/221
+* [Pull request](https://github.com/avhz/RustQuant/pull/295): Longstaff-Schwartz method for pricing American options
+* [Pull request](https://github.com/avhz/RustQuant/pull/270): Centralisation of the Monte-Carlo engine + add additional stochastic numerical schemes 
+* [Pull request](https://github.com/avhz/RustQuant/pull/211): Finite difference method for the Black-Scholes equation
+* [Pull request](https://github.com/avhz/RustQuant/pull/221): Improvement of the finite difference method using variable transformations
 
 ## Projects:
 * blackdash: Interactive web app for evaluating and analysing Options. Currently hosted at [blackdash.io](https://blackdash.io)
