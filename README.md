@@ -5,7 +5,9 @@ Hello and welcome to my Github!
 [My LinkedIn](https://www.linkedin.com/in/yfnaji/)
 
 ## Contributions:
-* Implementation of the finite difference method for the Black-Scholes equation: https://github.com/avhz/RustQuant/pull/211
+* Longstaff-Schwartz method for pricing American options: https://github.com/avhz/RustQuant/pull/295
+* Centralisation of the Monte-Carlo engine + add additional stochastic numerical schemes: https://github.com/avhz/RustQuant/pull/270 
+* Finite difference method for the Black-Scholes equation: https://github.com/avhz/RustQuant/pull/211
 * Improvement of the finite difference method using variable transformations: https://github.com/avhz/RustQuant/pull/221
 
 ## Projects:
