@@ -10,6 +10,7 @@ Hello and welcome to my Github!
 * [Pull request](https://github.com/avhz/RustQuant/pull/270): Centralisation of the Monte-Carlo engine + add additional stochastic numerical schemes 
 * [Pull request](https://github.com/avhz/RustQuant/pull/211): Finite difference method for the Black-Scholes equation
 * [Pull request](https://github.com/avhz/RustQuant/pull/221): Improvement of the finite difference method using variable transformations
+* [Pull request](https://github.com/avhz/RustQuant/pull/298): Implement B-Spline interpolation
 
 ## Personal Projects:
 * [blackdash.io](https://blackdash.io): Interactive web app for evaluating and analysing Options
