@@ -1,4 +1,4 @@
-# Yasser Naji's Github
+# Yesser Naji's Github
 
 ## Open-Source Contributions:
 ### [RustQuant](https://github.com/avhz/RustQuant)
